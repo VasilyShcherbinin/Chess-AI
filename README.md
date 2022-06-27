@@ -14,5 +14,5 @@ Launch jar.
 
 ## TODO:
 
-• Save game.
+• Save game.  
 • Colour scheme and theme.
